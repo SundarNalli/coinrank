@@ -3,11 +3,10 @@
 <br/>
 <h1>Things I learned</h1>
 <ul>
+  <li>Crypto API integration</li>
   <li>Python Coding</li>
   <li>Django Framework</li>
   <li>Python Virtual Environment and setup</li>
-  <li>Crypto API integration</li>
-  <li>Microservices</li>
 </ul>
 <br/>
 <h1>How to run?</h1>
